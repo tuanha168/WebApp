@@ -153,3 +153,8 @@ D:\FPT\WebApp\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Products\Delet
 D:\FPT\WebApp\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Products\Details.cshtml.g.cs
 D:\FPT\WebApp\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Products\Edit.cshtml.g.cs
 D:\FPT\WebApp\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
+D:\FPT\WebApp\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Create.cshtml.g.cs
+D:\FPT\WebApp\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Delete.cshtml.g.cs
+D:\FPT\WebApp\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Details.cshtml.g.cs
+D:\FPT\WebApp\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Edit.cshtml.g.cs
+D:\FPT\WebApp\WebApplication1\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Index.cshtml.g.cs
